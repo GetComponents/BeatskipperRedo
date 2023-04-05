@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fd80fa35d700c745990f5bfd99c8d49, type: 3}
+  m_Name: NONE
+  m_EditorClassIdentifier: 
+  MovementRange: 0
+  SprintRange: 0
+  AttackRange: 0
+  movementCost: 0
+  sprintCost: 0
+  attack1Cost: 0
+  attack2Cost: 0
+  attack3Cost: 0
+  defend1Cost: 0
+  defend2Cost: 0
+  defend3Cost: 0
+  attack1Dmg: 0
+  attack2Dmg: 0
+  attack3Dmg: 0
+  defend1Armor: 0
+  defend2Armor: 0
+  defend3Armor: 0
+  MaxHP: 0
+  maxEnergy: 0
+  movementSpeed: 0
+  Buff1Strength: 0
+  Buff2Strength: 0
+  Buff3Strength: 0
+  Nerf1Strength: 0
+  Nerf2Strength: 0
+  Nerf3Strength: 0
